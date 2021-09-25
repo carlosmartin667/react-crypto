@@ -24,7 +24,7 @@ function App() {
     }
   };
 
-
+    console.log('dsa');
   const getDataDos = async () => {
     var x = cors();
 
